@@ -15,6 +15,7 @@ Rules-Requires-Root: no
 Package: xtl-dev
 Section: libdevel
 Architecture: all
+Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: basic tools (containers, algorithms) used for xtensor and xeus
  This package contains additional containers and tools missing from
