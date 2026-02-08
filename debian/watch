@@ -1,4 +1,5 @@
-version=4
-opts="filenamemangle=s%(?:.*?)?v?(\d[\d.]*)\.tar\.gz%xtl-$1.tar.gz%" \
-   https://github.com/xtensor-stack/xtl/tags \
-   (?:.*?/)?v?(\d[\d.]*)\.tar\.gz debian uupdate
+Version: 5
+
+Template: GitHub
+Owner: xtensor-stack
+Project: xtl
