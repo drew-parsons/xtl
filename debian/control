@@ -5,7 +5,7 @@ Uploaders: Vincent Bernat <bernat@debian.org>
 Build-Depends: debhelper-compat (= 12),
                cmake,
                libgtest-dev (>= 1.8.1)
-Standards-Version: 4.5.0
+Standards-Version: 4.7.3
 Section: libs
 Homepage: https://github.com/xtensor-stack/xtl
 Vcs-Browser: https://github.com/quantstack-debian/xtl

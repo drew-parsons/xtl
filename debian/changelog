@@ -1,6 +1,7 @@
 xtl (0.8.2-1~0.1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Standards-Version: 4.7.3
 
  -- Drew Parsons <dparsons@debian.org>  Tue, 24 Feb 2026 10:52:05 +0100
 
